@@ -26,4 +26,4 @@ Rather than generating the buttons for my board at the start, I manually placed 
 
 ## Goals of this Project
 
-Recreate my shogi computer so it now works correctly, efficiently, and poses at least a moderate challenge. The system should be able to think at least 4 moves ahead, make moves in less than 2 seconds, and be able to beat a novice shogi player. Code should be written in C# (as was with the original).
+Recreate my shogi computer so it now works correctly, efficiently, and poses at least a moderate challenge. The system should be able to think at least 4 moves ahead, make moves in less than 1 second, and be able to beat a novice shogi player. Code should be written in C# (as was with the original).
